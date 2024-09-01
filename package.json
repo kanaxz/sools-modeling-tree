@@ -1,6 +1,6 @@
 {
  "name": "sools-modeling-tree",
- "version": "1.3.0",
+ "version": "1.4.0",
  "main": "Branch.js",
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
  "license": "ISC",
  "description": "",
  "dependencies": {
-  "sools-core": "^1.15.0"
+  "sools-core": "^1.16.0"
  },
  "repository": {
   "type": "git",
